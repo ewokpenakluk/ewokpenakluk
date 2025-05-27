@@ -1,6 +1,9 @@
 
 <h1 align="center">🔥 Welcome to the Fire Zone! 🔥</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WU4X3gVdEkL7lGc3xA/giphy.gif" width="200" alt="fire logo" />
+</p>
 
 <p align="center">
   <b>Hi there! I'm Angga – a passionate full-stack developer who codes with 🔥.</b><br>
